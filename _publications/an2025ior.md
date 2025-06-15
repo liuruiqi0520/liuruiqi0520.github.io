@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 paperurl: 'https://arxiv.org/abs/2406.04829'
 date: 2025-1-17
-venue: 'IFIP International Conference on Network and Parallel Computing (NPC), CCF-C'
+venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP), CCF-B'
 #@inproceedings{an2025ior,
 #  title={IOR: Inversed Objects Replay for Incremental Object Detection},
 #  author={An, Zijia and Diao, Boyu and Huang, Libo and Liu, Ruiqi and An, Zhulin and Xu, Yongjun},
