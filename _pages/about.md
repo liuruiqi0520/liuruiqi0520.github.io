@@ -19,7 +19,7 @@ My recent work is concentrated on utilizing pre-trained models to achieve effici
   <div>
     Ph.D in <a href="http://www.ict.cas.cn">Institute of Computing Technology</a>, 
     <a href="http://www.cas.cn">Chinese Academy of Sciences</a>,<br>
-    Beijing, 2021-now
+    Beijing, 2023-now
   </div>
 </div>
 
@@ -28,13 +28,13 @@ My recent work is concentrated on utilizing pre-trained models to achieve effici
   <div>
     B.S in <a href="https://scs.bupt.edu.cn">School of Computer Science</a>, 
     <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>,<br>
-    Beijing, 2017-2021
+    Beijing, 2019-2023
   </div>
 </div>
 
 
 
-# [Publication](https://jerryhdliu.github.io/publications/)
+# [Publication](https://liuruiqi0520.github.io/publications/)
 
 - **[PR-25, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
 
