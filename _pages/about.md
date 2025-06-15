@@ -32,49 +32,25 @@ My recent work is concentrated on utilizing pre-trained models to achieve effici
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 15px;">
-  <img src="images/lnssyzx.png" alt="" style="width:75px; height:75px; margin-right:10px;" />
-  <div>
-    <a href="http://www.lnsyzx.com/">Liaoning Province Shiyan High School</a>,<br>
-    Shenyang, 2014-2017
-  </div>
-</div>
-
-
 
 
 # [Publication](https://jerryhdliu.github.io/publications/)
 
-- **[IPDPS-25, CCF-B]** [Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](https://arxiv.org/pdf/2502.11407)
-
-    **Hangda Liu**, Boyu Diao*, Yu Yang, Wenxin Chen, Xiaohui Peng, Yongjun Xu
-
-
-- **[CompJ-24, CCF-B]** [A resource-aware workload scheduling method for unbalanced GEMMs on GPUs](https://academic.oup.com/comjnl/article-abstract/68/3/273/7841854)
-
-    **Hangda Liu**, Boyu Diao*, Wenxin Chen, Yongjun Xu
-
-- **[CCGrid-25, CCF-C]** [A Nonlinear Hash-based Optimization Method for SpMV on GPUs](https://arxiv.org/abs/2504.08860)
-
-    Chen Yan, Boyu Diao*, **Hangda Liu**, Zhulin An, Yongjun Xu
-
 - **[PR-25, CCF-B]** [Low-redundancy Distillation for continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320325003723)
 
-    Ruiqi Liu, Boyu Diao*, Libo Huang, Zijia An, **Hangda Liu**, Zhulin An, Yongjun Xu
+    **Ruiqi Liu**, Boyu Diao*, Libo Huang, Zijia An, Hangda Liu, Zhulin An, Yongjun Xu
 
-- **[NPC-24, CCF-C]** [DTuner: A Construction-Based Optimization Method for Dynamic Tensor Operators Accelerating](https://link.springer.com/chapter/10.1007/978-981-96-2830-8_5)
+- **[ICASSP-25, CCF-B]** [IOR: Inversed Objects Replay for Incremental Object Detection](https://arxiv.org/abs/2406.04829)
 
-    Yu Yang, Boyu Diao*, **Hangda Liu**, Qiyun Chen, Qi Wang, Yongjun Xu
+    Zijia An, Boyu Diao, Libo Huang, **Ruiqi Liu**, Zhulin An, Yongjun Xu
 
-- **[ICPR-24, CCF-C]** [An Evolutionary Search-Based Operator Fusion Method with Binary Representation for Deep Learning Inference Acceleration](https://link.springer.com/chapter/10.1007/978-3-031-78172-8_3)
+- **[NeurIPS-24, CCF-A]** [Continual Learning in the Frequency Domain](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9b224ace8963c9385ad5e2b5c9039b97-Abstract-Conference.html)
 
-    Wenxin Chen, Boyu Diao*, **Hangda Liu**, RuiSheng Wang, Yongjun Xu
+    **Ruiqi Liu**, Boyu Diao, Libo Huang, Zijia An, Zhulin An, Yongjun Xu
 
 # Honors & Awards
 
--  First Class Scholarship of University of Chinese Academy of Sciences, 2022&2023&2024
--  ICT × E Fund Scholarship, 2022
--  Merit Student of University of Chinese Academy of Sciences, 2022&2023&2025
--  Outstanding graduate of Beijing, 2021
--  Merit Student of Beijing, 2019
--  First Class Scholarship of BUPT, 2018&2020
+-  National Scholarship (Undergraduate), 2022
+-  Merit Student of Beijing, 2023
+-  National Scholarship (Master's), 2024
+
