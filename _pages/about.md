@@ -26,8 +26,7 @@ My recent work is concentrated on utilizing pre-trained models to achieve effici
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img src="images/bupt.png" alt="" style="width:75px; height:75px; margin-right:10px;" />
   <div>
-    B.S in <a href="https://scs.bupt.edu.cn">School of Computer Science</a>, 
-    <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>,<br>
+    B.E in <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>,<br>
     Beijing, 2019-2023
   </div>
 </div>
