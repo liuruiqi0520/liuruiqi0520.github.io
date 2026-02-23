@@ -46,10 +46,9 @@ My recent work is concentrated on utilizing pre-trained models to achieve effici
 - **[NeurIPS-24, CCF-A]** [Continual Learning in the Frequency Domain](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9b224ace8963c9385ad5e2b5c9039b97-Abstract-Conference.html)
 
     **Ruiqi Liu**, Boyu Diao, Libo Huang, Zijia An, Zhulin An, Yongjun Xu
-- 
 - **[CVPR-26, CCF-A]** [Parameterized Prompt for Incremental Object Detection](https://arxiv.org/abs/2510.27316)
 
-    Zijia An, Boyu Diao, Ruiqi Liu, Libo Huang, Chuanguang Yang, Fei Wang, Zhulin An, Yongjun Xu
+    Zijia An, Boyu Diao, **Ruiqi Liu**, Libo Huang, Chuanguang Yang, Fei Wang, Zhulin An, Yongjun Xu
 # Honors & Awards
 
 -  National Scholarship (Undergraduate), 2022
