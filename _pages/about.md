@@ -49,6 +49,9 @@ My recent work is concentrated on utilizing pre-trained models to achieve effici
 - **[CVPR-26, CCF-A]** [Parameterized Prompt for Incremental Object Detection](https://arxiv.org/abs/2510.27316)
 
     Zijia An, Boyu Diao, **Ruiqi Liu**, Libo Huang, Chuanguang Yang, Fei Wang, Zhulin An, Yongjun Xu
+- - **[NeurIPS-26, CCF-A]** [Dynamical Adapter Fusion: Constructing A Global Adapter for Pre-Trained Model-based Class-Incremental Learning](https://arxiv.org/abs/2601.21341)
+
+    **Ruiqi Liu**, Boyu Diao, Zijia An, Zhulin An, Wang Fei, Yongjun Xu
 # Honors & Awards
 
 -  National Scholarship (Undergraduate), 2022
